@@ -1,7 +1,20 @@
-# Assignment 1: Python 
- - It's in management command
- - To run manangement command `python manage.py combine_csv`
+# profile-Backend
+ - It is an product details application
 
-# Assignment 2: Django/ Flask
- - firstly run the `python manage.py makemigrations` and after `python manage.py migrate`
- - And then run command `python manage.py runserver`
+# Technologies Used
+ - Django & Django-Restframework
+ - Mysql
+
+
+## Getting started
+To get started with Logging, follow these steps:
+
+- Clone the repository to your local machine
+- Install the required packages listed in requirements.txt
+- Set up your MYSQL database and create a table for storing logs
+- Start the Djnago application using `make run` or  `python manage.py runserver`
+
+
+## Note
+- All requests must have Authorization token in headers
+- To install all packages using `make install` or `pip install -r requirements.txt`
