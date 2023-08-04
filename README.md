@@ -16,5 +16,5 @@ To get started with Logging, follow these steps:
 
 
 ## Note
-- All requests must have Authorization token in headers
+- All requests must have Authorization token in headers # optinal 
 - To install all packages using `make install` or `pip install -r requirements.txt`
