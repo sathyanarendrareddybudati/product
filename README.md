@@ -1,4 +1,4 @@
-# profile-Backend
+# product-Backend
  - It is an product details application
 
 # Technologies Used
